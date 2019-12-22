@@ -50,6 +50,9 @@ module.exports = {
     '@nuxtjs/dotenv',
     'nuxt-validate'
   ],
+  devModules: [
+    '@nuxtjs/eslint-module'
+  ],
   /*
   ** Axios module configuration
   ** See https://axios.nuxtjs.org/options
